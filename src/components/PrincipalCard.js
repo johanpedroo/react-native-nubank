@@ -31,18 +31,18 @@ const styles = StyleSheet.create({
 		width: '90%'
 	},
 	status: {
-		fontSize: '1.1em',
+		fontSize: 1.1,
 		fontWeight: 'bold'
 	},
 	prev: {
 		fontWeight: '600'
 	},
 	prevDate: {
-		fontSize: '1.1em',
+		fontSize: 1.1,
 		fontWeight: 'bold'
 	},
 	address: {
 		marginTop: 20,
-		fontSize: '.75em'
+		fontSize: 0.75
 	}
 });

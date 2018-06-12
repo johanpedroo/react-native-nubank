@@ -19,11 +19,8 @@ export default class Menu extends React.Component {
 
 const styles = StyleSheet.create({
 	menu: {
-		display: 'block',
 		// backgroundColor: 'white',
 		flex: 0,
-		overflowX: 'auto',
-		overflowY: 'hidden',
 		width: '100%',
 		height: 130,
 		left: 0,

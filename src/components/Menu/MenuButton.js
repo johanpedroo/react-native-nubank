@@ -28,6 +28,6 @@ const styles = StyleSheet.create({
 	},
 	label: {
 		color: 'white',
-		fontSize: '.9em'
+		fontSize: 0.9
 	}
 });
