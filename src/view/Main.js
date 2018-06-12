@@ -29,11 +29,12 @@ const styles = StyleSheet.create({
 		justifyContent: 'space-between',
 	},
 	header:{
-		flex: .16,
+		height: 90,
 		justifyContent: 'center'
 	},
 	name: {
-		fontSize: '1.9em',
+		marginTop: 30,
+		fontSize: '1.6em',
 		fontWeight: '500',
 		color: 'white'
 	}

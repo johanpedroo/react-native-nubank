@@ -9,7 +9,7 @@ class MenuButton extends React.Component {
 		return (
 			<View style={[styles.button]}>
 				<View/>
-				<Text style={styles.label}>dsdsd</Text>
+				<Text style={styles.label}>{this.props.children}</Text>
 			</View>
 		);
 	}
