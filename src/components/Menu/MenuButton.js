@@ -19,6 +19,7 @@ const styles = StyleSheet.create({
 	button: {
 		minWidth: 110,
 		minHeight: 110,
+		maxHeight: 110,
 		backgroundColor: '#ffffff22',
 		justifyContent: 'space-between',
 		marginRight: 10,
@@ -28,6 +29,6 @@ const styles = StyleSheet.create({
 	},
 	label: {
 		color: 'white',
-		fontSize: 0.9
+		fontSize: 13
 	}
 });

@@ -34,7 +34,7 @@ const styles = StyleSheet.create({
 	},
 	name: {
 		marginTop: 30,
-		fontSize: 1.6,
+		fontSize: 24,
 		fontWeight: '500',
 		color: 'white'
 	}

@@ -22,7 +22,7 @@ const styles = StyleSheet.create({
 		// backgroundColor: 'white',
 		flex: 0,
 		width: '100%',
-		height: 130,
+		maxHeight: 130,
 		left: 0,
 		padding: 20,
 		paddingTop: 0,

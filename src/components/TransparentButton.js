@@ -28,7 +28,7 @@ const styles = StyleSheet.create({
 	text: {
 		color: '#82269e',
 		flex: 1,
-		fontSize: .9,
+		fontSize: 13,
 		fontWeight: 'bold',
 		lineHeight: 60
 	},
